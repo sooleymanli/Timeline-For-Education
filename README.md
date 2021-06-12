@@ -5,6 +5,6 @@
 
 ###
 
-![ScreenShot](img/screenshot.gif)
+![ScreenShot](screenshot.gif)
 
 
